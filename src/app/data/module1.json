@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Migrating to the cloud",
+    "url": "https://aws.amazon.com/campaigns/migrating-to-the-cloud/"
+  },
+  {
+    "name": "CLI Chap Install",
+    "url": "https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html"
+  },
+  {
+    "name": "CDK Guide",
+    "url": "https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html"
+  },
+  {
+    "name": "AWS Documentation",
+    "url": "https://docs.aws.amazon.com/"
+  },
+  {
+    "name": "AWS Data Center",
+    "url": "https://aws.amazon.com/compliance/data-center/data-centers/"
+  },
+  {
+    "name": "AWS Local Zone",
+    "url": "https://aws.amazon.com/about-aws/global-infrastructure/localzones/"
+  },
+  {
+    "name": "AWS Well Architecting Labs",
+    "url": "https://www.wellarchitectedlabs.com/"
+  },
+  {
+    "name": "AWS Well Architected",
+    "url": "https://aws.amazon.com/architecture/well-architected/"
+  },
+  {
+    "name": "AWS Well Architecting Tool",
+    "url": "https://aws.amazon.com/well-architected-tool/"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "AWS STS API Reference",
+    "url": "https://docs.aws.amazon.com/STS/latest/APIReference/Welcome.html"
+  },
+  {
+    "name": "AWS IAM Role User Guide",
+    "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use.html"
+  },
+  {
+    "name": "Policy evaluation logic",
+    "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html"
+  },
+  {
+    "name": "Best practice Managed vs Inline Policy",
+    "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html#best-practice-managed-vs-inline"
+  },
+  {
+    "name": "Identity-based policies and Resource-based policies",
+    "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_identity-vs-resource.html"
+  },
+  {
+    "name": "Viewing last accessed information for IAM",
+    "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_access-advisor-view-data.html"
+  },
+  {
+    "name": "Using AWS IAM Access Analyzer",
+    "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/what-is-access-analyzer.html"
+  },
+  {
+    "name": "Permissions boundaries for IAM entities",
+    "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_boundaries.html"
+  },
+  {
+    "name": "Enabling SAML for your AWS resources",
+    "url": "https://aws.amazon.com/identity/saml/"
+  },
+  {
+    "name": "How to Use Service Control Policies in AWS Organizations",
+    "url": "https://aws.amazon.com/blogs/security/how-to-use-service-control-policies-in-aws-organizations/"
+  },
+  {
+    "name": "nheritance for service control policies",
+    "url": "https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_inheritance_auth.html"
+  },
+  {
+    "name": "AWS Regional Services",
+    "url": "https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/"
+  }
+]

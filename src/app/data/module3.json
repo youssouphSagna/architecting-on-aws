@@ -1,10 +1,34 @@
 [
   {
-    "name": "AWS QwikLabs",
-    "url": "https://aws.qwiklabs.com/"
+    "name": "CIDR Tool",
+    "url": "https://cidr.xyz/"
   },
   {
-    "name": "Vital Source (Slides)",
-    "url": "https://bookshelf.vitalsource.com/#/"
+    "name": "What is Amazon VPC ?",
+    "url": "https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html"
+  },
+  {
+    "name": "Internet gateways",
+    "url": "https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html"
+  },
+  {
+    "name": "How do I modify the IPv4 CIDR block of my Amazon VPC ?",
+    "url": "https://aws.amazon.com/premiumsupport/knowledge-center/vpc-ip-address-range"
+  },
+  {
+    "name": "Create a virtual private cloud",
+    "url": "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/create-public-private-vpc.html"
+  },
+  {
+    "name": "VPC Security",
+    "url": "https://docs.aws.amazon.com/vpc/latest/userguide/security.html"
+  },
+  {
+    "name": "Network ACL",
+    "url": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html"
+  },
+  {
+    "name": "Security Group",
+    "url": "https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html"
   }
 ]

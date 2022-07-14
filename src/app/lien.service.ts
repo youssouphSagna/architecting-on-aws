@@ -7,6 +7,8 @@ import { customOp } from './custom-operator';
 import * as module0Data from './data/module0.json';
 import * as module1Data from './data/module1.json';
 import * as module2Data from './data/module2.json';
+import * as module3Data from './data/module3.json';
+import * as module4Data from './data/module4.json';
 
 @Injectable()
 export class LienService {
@@ -14,13 +16,23 @@ export class LienService {
   module_00: Lien[] = [];
   module_01: Lien[] = [];
   module_02: Lien[] = [];
+  module_03: Lien[] = [];
+  module_04: Lien[] = [];
 
   constructor() {
     this.importModule0();
     this.importModule1();
     this.importModule2();
+    this.importModule3();
+    this.importModule4();
 
-    this.liens = [...this.module_00, ...this.module_01, ...this.module_02];
+    this.liens = [
+      ...this.module_00,
+      ...this.module_01,
+      ...this.module_02,
+      ...this.module_03,
+      ...this.module_04,
+    ];
   }
 
   importModule0() {
@@ -36,6 +48,16 @@ export class LienService {
   importModule2() {
     this.module_02 = (module2Data as any).default as Lien[];
     this.module_02.forEach((lien) => (lien.category = Category.MODULE_2));
+  }
+
+  importModule3() {
+    this.module_03 = (module3Data as any).default as Lien[];
+    this.module_03.forEach((lien) => (lien.category = Category.MODULE_3));
+  }
+
+  importModule4() {
+    this.module_04 = (module4Data as any).default as Lien[];
+    this.module_04.forEach((lien) => (lien.category = Category.MODULE_4));
   }
 
   get list() {

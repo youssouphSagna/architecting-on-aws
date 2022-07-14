@@ -1,3 +1,3 @@
-# aws-technical-essentials-gborzw
+# Architecting on AWS
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/aws-technical-essentials-gborzw)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/architecting-on-aws)

@@ -9,6 +9,7 @@ import * as module1Data from './data/module1.json';
 import * as module2Data from './data/module2.json';
 import * as module3Data from './data/module3.json';
 import * as module4Data from './data/module4.json';
+import * as module5Data from './data/module5.json';
 
 @Injectable()
 export class LienService {
@@ -18,6 +19,7 @@ export class LienService {
   module_02: Lien[] = [];
   module_03: Lien[] = [];
   module_04: Lien[] = [];
+  module_05: Lien[] = [];
 
   constructor() {
     this.importModule0();
@@ -25,6 +27,7 @@ export class LienService {
     this.importModule2();
     this.importModule3();
     this.importModule4();
+    this.importModule5();
 
     this.liens = [
       ...this.module_00,
@@ -32,6 +35,7 @@ export class LienService {
       ...this.module_02,
       ...this.module_03,
       ...this.module_04,
+      ...this.module_05,
     ];
   }
 
@@ -58,6 +62,11 @@ export class LienService {
   importModule4() {
     this.module_04 = (module4Data as any).default as Lien[];
     this.module_04.forEach((lien) => (lien.category = Category.MODULE_4));
+  }
+
+  importModule5() {
+    this.module_05 = (module5Data as any).default as Lien[];
+    this.module_05.forEach((lien) => (lien.category = Category.MODULE_5));
   }
 
   get list() {

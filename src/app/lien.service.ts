@@ -127,7 +127,7 @@ export class LienService {
     this.module_11.forEach((lien) => (lien.category = Category.MODULE_11));
   }
   importModule12() {
-    this.module_12 = (module7Data as any).default as Lien[];
+    this.module_12 = (module12Data as any).default as Lien[];
     this.module_12.forEach((lien) => (lien.category = Category.MODULE_12));
   }
 

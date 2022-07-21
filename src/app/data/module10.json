@@ -1,10 +1,66 @@
 [
   {
-    "name": "AWS QwikLabs",
-    "url": "https://aws.qwiklabs.com/"
+    "name": "AWS PrivateLink and VPC endpoints",
+    "url": "https://docs.aws.amazon.com/vpc/latest/privatelink/endpoint-services-overview.html"
   },
   {
-    "name": "Vital Source (Slides)",
-    "url": "https://bookshelf.vitalsource.com/#/"
+    "name": "Gateway VPC endpoints",
+    "url": "https://docs.aws.amazon.com/vpc/latest/privatelink/vpce-gateway.html"
+  },
+  {
+    "name": "Interface VPC endpoints (AWS PrivateLink)",
+    "url": "https://docs.aws.amazon.com/vpc/latest/privatelink/vpce-interface.html"
+  },
+  {
+    "name": "AWS PrivateLink for Amazon S3",
+    "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/privatelink-interface-endpoints.html"
+  },
+  {
+    "name": "Amazon VPC quotas",
+    "url": "https://docs.aws.amazon.com/vpc/latest/userguide/amazon-vpc-limits.html"
+  },
+  {
+    "name": "AWS Transit Gateway",
+    "url": "https://aws.amazon.com/transit-gateway/"
+  },
+  {
+    "name": "Examples” in the Amazon VPC: AWS Transit Gateway guide",
+    "url": "https://docs.aws.amazon.com/vpc/latest/tgw/TGW_Scenarios.html"
+  },
+  {
+    "name": "What is AWS Site-to-Site VPN?",
+    "url": "https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html"
+  },
+  {
+    "name": "Adding MACsec security to AWS Direct Connect connections",
+    "url": "https://aws.amazon.com/blogs/networking-and-content-delivery/adding-macsec-security-to-aws-direct-connect-connections/"
+  },
+  {
+    "name": "AWS Direct Connect",
+    "url": "https://aws.amazon.com/directconnect/"
+  },
+  {
+    "name": "Getting Started With Direct Connect",
+    "url": "https://aws.amazon.com/directconnect/getting-started/"
+  },
+  {
+    "name": "AWS Direct Connect virtual interfaces",
+    "url": "https://docs.aws.amazon.com/directconnect/latest/UserGuide/WorkingWithVirtualInterfaces.html"
+  },
+  {
+    "name": "Direct Connect and Transit Gateway",
+    "url": "https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-direct-connect-aws-transit-gateway.html"
+  },
+  {
+    "name": "Route 53: Monitoring health checks using CloudWatch",
+    "url": "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/monitoring-health-checks.html"
+  },
+  {
+    "name": "Route 53: Working with hosted zones",
+    "url": "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/hosted-zones-working-with.html"
+  },
+  {
+    "name": "Route 53: Choosing a routing policy",
+    "url": "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html"
   }
 ]

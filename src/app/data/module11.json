@@ -1,10 +1,78 @@
 [
   {
-    "name": "AWS QwikLabs",
-    "url": "https://aws.qwiklabs.com/"
+    "name": "Serverless on AWS",
+    "url": "https://aws.amazon.com/serverless/"
   },
   {
-    "name": "Vital Source (Slides)",
-    "url": "https://bookshelf.vitalsource.com/#/"
+    "name": "Signature Version 4 signing process",
+    "url": "https://docs.aws.amazon.com/general/latest/gr/signature-version-4.html"
+  },
+  {
+    "name": "Building Loosely Coupled, Scalable, C# Applications with Amazon SQS and Amazon SNS",
+    "url": "https://aws.amazon.com/blogs/compute/building-loosely-coupled-scalable-c-applications-with-amazon-sqs-and-amazon-sns/"
+  },
+  {
+    "name": "Loosely Coupled Scenarios",
+    "url": "https://docs.aws.amazon.com/wellarchitected/latest/high-performance-computing-lens/loosely-coupled-scenarios.html"
+  },
+  {
+    "name": "Amazon SQS Standard queues",
+    "url": "http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/standard-queues.html"
+  },
+  {
+    "name": "Amazon SQS FIFO (First-In-First-Out) queues",
+    "url": "http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/FIFO-queues.html"
+  },
+  {
+    "name": "Amazon SQS message timers",
+    "url": "https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-message-timers.html"
+  },
+  {
+    "name": "Using Amazon SQS dead-letter queues to replay messages",
+    "url": "https://aws.amazon.com/blogs/compute/using-amazon-sqs-dead-letter-queues-to-replay-messages/"
+  },
+  {
+    "name": "States: in the AWS Step Functions Developer Guide ",
+    "url": "https://docs.aws.amazon.com/step-functions/latest/dg/concepts-states.html"
+  },
+  {
+    "name": "Amazon States Language",
+    "url": "https://states-language.net/spec.html"
+  },
+  {
+    "name": "Tool to validate Amazon States Language code : statelint on the GitHub website ",
+    "url": "https://github.com/awslabs/statelint"
+  },
+  {
+    "name": "Amazon States Language: State Task",
+    "url": "https://docs.aws.amazon.com/step-functions/latest/dg/amazon-states-language-task-state.html"
+  },
+  {
+    "name": "Amazon States Language: State Choice",
+    "url": "https://docs.aws.amazon.com/step-functions/latest/dg/amazon-states-language-choice-state.html"
+  },
+  {
+    "name": "Amazon States Language: State Fail",
+    "url": "https://docs.aws.amazon.com/step-functions/latest/dg/amazon-states-language-fail-state.html"
+  },
+  {
+    "name": "Amazon States Language: State Succeed",
+    "url": "https://docs.aws.amazon.com/step-functions/latest/dg/amazon-states-language-succeed-state.html"
+  },
+  {
+    "name": "Amazon States Language: State Pass",
+    "url": "https://docs.aws.amazon.com/step-functions/latest/dg/amazon-states-language-pass-state.html"
+  },
+  {
+    "name": "Amazon States Language: State Wait",
+    "url": "https://docs.aws.amazon.com/step-functions/latest/dg/amazon-states-language-wait-state.html"
+  },
+  {
+    "name": "Amazon States Language: State Parallel",
+    "url": "https://docs.aws.amazon.com/step-functions/latest/dg/amazon-states-language-parallel-state.html"
+  },
+  {
+    "name": "Amazon States Language: State Map",
+    "url": "https://docs.aws.amazon.com/step-functions/latest/dg/amazon-states-language-map-state.html"
   }
 ]

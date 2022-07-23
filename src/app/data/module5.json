@@ -1,10 +1,107 @@
 [
   {
-    "name": "AWS QwikLabs",
-    "url": "https://aws.qwiklabs.com/"
+    "name": "How AWS Partners Are Utilizing Amazon S3 to Help Customers Solve for Scale",
+    "url": "https://aws.amazon.com/blogs/apn/how-aws-partners-are-utilizing-amazon-s3-to-help-customers-solve-for-scale/"
   },
   {
-    "name": "Vital Source (Slides)",
-    "url": "https://bookshelf.vitalsource.com/#/"
+    "name": "Creating object key names",
+    "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-keys.html"
+  },
+  {
+    "name": "Blocking public access to your Amazon S3 storage",
+    "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-control-block-public-access.html"
+  },
+  {
+    "name": "Using versioning in S3 buckets",
+    "url": "https://docs.aws.amazon.com/AmazonS3/latest/dev/Versioning.html"
+  },
+  {
+    "name": "Using S3 Object Lock",
+    "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lock.html"
+  },
+  {
+    "name": "Amazon S3 Glacier storage classes",
+    "url": "https://aws.amazon.com/glacier/"
+  },
+  {
+    "name": "Amazon S3 pricing",
+    "url": "https://aws.amazon.com/glacier/pricing/"
+  },
+  {
+    "name": "Transitioning objects using Amazon S3 Lifecycle",
+    "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/lifecycle-transition-general-considerations.html"
+  },
+  {
+    "name": "Managing your storage lifecycle",
+    "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lifecycle-mgmt.html"
+  },
+  {
+    "name": "Protecting data using server-side encryption",
+    "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/serv-side-encryption.html"
+  },
+  {
+    "name": "Amazon S3 Replication",
+    "url": "https://aws.amazon.com/s3/features/replication/"
+  },
+  {
+    "name": "How to meet business data resiliency with Amazon S3 cross-Region replication",
+    "url": "https://aws.amazon.com/blogs/publicsector/how-to-meet-business-data-resiliency-s3-cross-region-replication/"
+  },
+  {
+    "name": "Reliable event processing with Amazon S3 event notifications on the AWS Storage Blog",
+    "url": "https://aws.amazon.com/blogs/storage/reliable-event-processing-with-amazon-s3-event-notifications/"
+  },
+  {
+    "name": "S3 Transfer Acceleration",
+    "url": "https://aws.amazon.com/s3/transfer-acceleration/"
+  },
+  {
+    "name": "Uploading and copying objects using multipart upload",
+    "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/mpuoverview.html"
+  },
+  {
+    "name": "Introducing Amazon S3 Object Lambda – Use Your Code to Process Data as It Is Being Retrieved from S3",
+    "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/"
+  },
+  {
+    "name": "Amazon S3 pricing",
+    "url": "https://aws.amazon.com/s3/pricing/"
+  },
+  {
+    "name": "Amazon S3 pricing",
+    "url": "https://aws.amazon.com/efs/enterprise-applications/"
+  },
+  {
+    "name": "Windows home directories made easy with Amazon FSx",
+    "url": "https://aws.amazon.com/blogs/storage/windows-home-directories-and-file-shares-made-easy-with-amazon-fsx/"
+  },
+  {
+    "name": "Mounting from an Amazon Elastic Compute Cloud instance",
+    "url": "https://docs.aws.amazon.com/fsx/latest/LustreGuide/mounting-ec2-instance.html"
+  },
+  {
+    "name": "Comparing your on-premises storage patterns with AWS Storage services",
+    "url": "https://aws.amazon.com/blogs/storage/comparing-your-on-premises-storage-patterns-with-aws-storage-services/"
   }
+,{
+    "name": "AWS Snowcone",
+    "url": "https://aws.amazon.com/snowcone/"
+  },
+  {
+    "name": "AWS Snowball FAQs",
+    "url": "https://aws.amazon.com/snowball/faqs/"
+  },
+  {
+    "name": "AWS Snowball Edge Specifications",
+    "url": "https://docs.aws.amazon.com/snowball/latest/developer-guide/specifications.html"
+  },
+  {
+    "name": "AWS Snowmobile",
+    "url": "https://aws.amazon.com/snowmobile/"
+  },
+  {
+    "name": "Protecting Data On Your Device",
+    "url": "https://docs.aws.amazon.com/snowball/latest/ug/data-protection-device.html"
+  }
+
 ]

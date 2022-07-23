@@ -1,10 +1,39 @@
 [
   {
-    "name": "AWS QwikLabs",
-    "url": "https://aws.qwiklabs.com/"
+    "name": "Microservices architecture on AWS",
+    "url": "https://docs.aws.amazon.com/whitepapers/latest/microservices-on-aws/simple-microservices-architecture-on-aws.html"
   },
   {
-    "name": "Vital Source (Slides)",
-    "url": "https://bookshelf.vitalsource.com/#/"
+    "name": "Introducing Application Load Balancer – Unlocking and Optimizing Architectures",
+    "url": "https://aws.amazon.com/blogs/devops/introducing-application-load-balancer-unlocking-and-optimizing-architectures/"
+  },
+  {
+    "name": "New – Advanced Request Routing for AWS Application Load Balancers",
+    "url": "https://aws.amazon.com/blogs/aws/new-advanced-request-routing-for-aws-application-load-balancers/"
+  },
+  {
+    "name": "Amazon ECS container instances",
+    "url": "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_instances.html"
+  },
+  {
+    "name": "Amazon ECS cluster auto scaling",
+    "url": "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/cluster-auto-scaling.html"
+  },
+  {
+    "name": "Kubernetes on AWS",
+    "url": "https://aws.amazon.com/kubernetes/"
+  },
+  {
+    "name": "Amazon EKS features",
+    "url": "https://aws.amazon.com/eks/features/"
+  },
+  {
+    "name": "Amazon Elastic Container Service features",
+    "url": "https://aws.amazon.com/ecs/features/"
+  },
+  {
+    "name": "Building a Cloud Operating Mode (PDF)",
+    "url": "https://d1.awsstatic.com/whitepapers/building-a-cloud-operating-model.pdf"
   }
+
 ]

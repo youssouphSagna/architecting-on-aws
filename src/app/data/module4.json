@@ -1,10 +1,54 @@
 [
   {
-    "name": "AWS QwikLabs",
-    "url": "https://aws.qwiklabs.com/"
+    "name": "AWS EC2 User Guide",
+    "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html"
   },
   {
-    "name": "Vital Source (Slides)",
-    "url": "https://bookshelf.vitalsource.com/#/"
+    "name": "Amazon EC2 Dedicated Hosts",
+    "url": "https://aws.amazon.com/ec2/dedicated-hosts/"
+  },
+  {
+    "name": "Amazon EC2 Instance Types",
+    "url": "https://aws.amazon.com/ec2/instance-types/"
+  },
+  {
+    "name": "Tagging AWS resources",
+    "url": "https://docs.aws.amazon.com/general/latest/gr/aws_tagging.html"
+  },
+  {
+    "name": "AWS Saving Plans",
+    "url": "https://aws.amazon.com/savingsplans/"
+  },
+  {
+    "name": "AWS Spot Instance User Guide",
+    "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-spot-instances.html"
+  },
+  {
+    "name": "Amazon EBS",
+    "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html"
+  },
+  {
+    "name": "Solid State Drives (SSD)",
+    "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html#solid-state-drives"
+  },
+  {
+    "name": "Placement groups",
+    "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html"
+  },
+  {
+    "name": "Serverless on AWS",
+    "url": "https://aws.amazon.com/serverless/"
+  },
+  {
+    "name": "Managing Lambda reserved concurrency",
+    "url": "https://docs.aws.amazon.com/lambda/latest/dg/configuration-concurrency.html"
+  },
+  {
+    "name": "AWS Lambda Pricing",
+    "url": "https://aws.amazon.com/lambda/pricing/"
+  },
+  {
+    "name": "Tutorial: Creating and Using Lambda Functions",
+    "url": "https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/lambda-examples.html"
   }
 ]

@@ -1,10 +1,34 @@
 [
   {
-    "name": "AWS QwikLabs",
-    "url": "https://aws.qwiklabs.com/"
+    "name": "Complete CI/CD with AWS CodeCommit, AWS CodeBuild, AWS CodeDeploy, and AWS CodePipeline",
+    "url": "https://aws.amazon.com/blogs/devops/complete-ci-cd-with-aws-codecommit-aws-codebuild-aws-codedeploy-and-aws-codepipeline/"
   },
   {
-    "name": "Vital Source (Slides)",
-    "url": "https://bookshelf.vitalsource.com/#/"
+    "name": "Walkthrough: Refer to resource outputs in another AWS CloudFormation stack",
+    "url": "https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/walkthrough-crossstackref.html"
+  },
+  {
+    "name": "Updating stacks using change sets",
+    "url": "https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/using-cfn-updating-stacks-changesets.html"
+  },
+  {
+    "name": "Template anatomy",
+    "url": "https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-anatomy.html"
+  },
+  {
+    "name": "AWS CloudFormation best practices",
+    "url": "https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/best-practices.html"
+  },
+  {
+    "name": "AWS Solutions Implementations",
+    "url": "https://aws.amazon.com/solutions/implementations/"
+  },
+  {
+    "name": "What is AWS Systems Manager ?",
+    "url": "https://docs.aws.amazon.com/systems-manager/latest/userguide/what-is-systems-manager.html"
+  },
+  {
+    "name": "AWS Systems Manager features",
+    "url": "https://aws.amazon.com/systems-manager/features/"
   }
 ]

@@ -1,10 +1,30 @@
 [
   {
-    "name": "AWS QwikLabs",
-    "url": "https://aws.qwiklabs.com/"
+    "name": "Disaster Recovery of Workloads on AWS: Recovery in the Cloud (PDF)",
+    "url": "https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-workloads-on-aws.pdf"
   },
   {
-    "name": "Vital Source (Slides)",
-    "url": "https://bookshelf.vitalsource.com/#/"
+    "name": "AWS Backup",
+    "url": "https://aws.amazon.com/backup/"
+  },
+  {
+    "name": "AWS Backup – Automate and Centrally Manage Your Backups",
+    "url": "https://aws.amazon.com/blogs/aws/aws-backup-automate-and-centrally-manage-your-backups/"
+  },
+  {
+    "name": "AWS Backup works with other AWS services: What is AWS Backup ?",
+    "url": "https://docs.aws.amazon.com/aws-backup/latest/devguide/working-with-other-services.html"
+  },
+  {
+    "name": "Disaster Recovery (DR) Architecture on AWS, Part III: Pilot Light and Warm Standby",
+    "url": "https://aws.amazon.com/blogs/architecture/disaster-recovery-dr-architecture-on-aws-part-iii-pilot-light-and-warm-standby/"
+  },
+  {
+    "name": "Disaster Recovery (DR) Architecture on AWS, Part IV: Multi-site Active/Active",
+    "url": "https://aws.amazon.com/blogs/architecture/disaster-recovery-dr-architecture-on-aws-part-iv-multi-site-active-active/"
+  },
+  {
+    "name": "AWS Elastic Disaster Recovery",
+    "url": "https://aws.amazon.com/disaster-recovery/"
   }
 ]

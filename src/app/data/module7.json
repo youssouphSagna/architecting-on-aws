@@ -1,10 +1,91 @@
 [
   {
-    "name": "AWS QwikLabs",
-    "url": "https://aws.qwiklabs.com/"
+    "name": "What is Amazon CloudWatch",
+    "url": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html"
   },
   {
-    "name": "Vital Source (Slides)",
-    "url": "https://bookshelf.vitalsource.com/#/"
+    "name": "How Amazon CloudWatch works",
+    "url": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch_architecture.html"
+  },
+  {
+    "name": "Amazon CloudWatch concepts",
+    "url": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch_concepts.html"
+  },
+  {
+    "name": "Store and Monitor OS & Application Log Files with Amazon CloudWatch",
+    "url": "https://aws.amazon.com/blogs/aws/cloudwatch-log-service/"
+  },
+  {
+    "name": "Logging and Events",
+    "url": "https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/logging-and-events.html"
+  },
+  {
+    "name": "Working with log groups and log streams",
+    "url": "https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs-s3.html"
+  },
+  {
+    "name": "Collecting metrics and logs",
+    "url": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Install-CloudWatch-Agent.html"
+  },
+  {
+    "name": "CloudTrail supported services and integrations",
+    "url": "http://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-services.html"
+  },
+  {
+    "name": "VPC Flow Logs",
+    "url": "https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html"
+  },
+  {
+    "name": "Improve security by analyzing VPC flow logs with Amazon CloudWatch Contributor Insights",
+    "url": "https://aws.amazon.com/blogs/mt/improve-security-by-analyzing-vpc-flow-logs-with-amazon-cloudwatch-contributor-insights/"
+  },
+
+  {
+    "name": "Publish flow logs to Amazon S3",
+    "url": "https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs-s3.html"
+  },
+  {
+    "name": "Using Amazon CloudWatch alarms",
+    "url": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html"
+  },
+  {
+    "name": "Amazon EventBridge",
+    "url": "https://aws.amazon.com/eventbridge/"
+  },
+  {
+    "name": "What is Elastic Load Balancing",
+    "url": "https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html"
+  },
+  {
+    "name": "Creating a launch template for an Auto Scaling group",
+    "url": "https://docs.aws.amazon.com/autoscaling/ec2/userguide/create-launch-template.html"
+  },
+  {
+    "name": "Creating a launch configuration using an EC2 instance",
+    "url": "https://docs.aws.amazon.com/autoscaling/ec2/userguide/create-lc-with-instanceID.html"
+  },
+  {
+    "name": "Auto Scaling groups",
+    "url": "https://docs.aws.amazon.com/autoscaling/ec2/userguide/AutoScalingGroup.html"
+  },
+  {
+    "name": "Attaching a load balancer to your Auto Scaling group",
+    "url": "https://docs.aws.amazon.com/autoscaling/ec2/userguide/attach-load-balancer-asg.html"
+  },
+  {
+    "name": "Scaling options",
+    "url": "https://docs.aws.amazon.com/autoscaling/ec2/userguide/scaling_plan.html#scaling_typesof"
+  },
+  {
+    "name": "Auto Scaling groups",
+    "url": "https://docs.aws.amazon.com/autoscaling/ec2/userguide/AutoScalingGroup.html"
+  },
+  {
+    "name": "Auto Scaling groups with multiple instance types and purchase options",
+    "url": "https://docs.aws.amazon.com/autoscaling/ec2/userguide/asg-purchase-options.html"
+  },
+  {
+    "name": "Monitoring CloudWatch metrics for your Auto Scaling groups and instances",
+    "url": "https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-instance-monitoring.html"
   }
 ]

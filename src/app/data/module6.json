@@ -1,10 +1,90 @@
 [
   {
-    "name": "AWS QwikLabs",
-    "url": "https://aws.qwiklabs.com/"
+    "name": "AWS Cloud Databases",
+    "url": "https://aws.amazon.com/products/databases/"
   },
   {
-    "name": "Vital Source (Slides)",
-    "url": "https://bookshelf.vitalsource.com/#/"
+    "name": "What is a Relational Database ?",
+    "url": "https://aws.amazon.com/relational-database"
+  },
+  {
+    "name": "What is NoSQL ?",
+    "url": "https://aws.amazon.com/nosql/"
+  },
+  {
+    "name": "Purpose-built databases",
+    "url": "https://aws.amazon.com/getting-started/hands-on/purpose-built-databases/"
+  },
+  {
+    "name": "Working with read replicas",
+    "url": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html#USER_ReadRepl.PostgreSQL"
+  },
+  {
+    "name": "Amazon DynamoDB: Gaming use cases and design patterns",
+    "url": "https://aws.amazon.com/blogs/database/amazon-dynamodb-gaming-use-cases-and-design-patterns/"
+  },
+  {
+    "name": "Core Components of Amazon DynamoDB",
+    "url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.CoreComponents.html."
+  },
+  {
+    "name": "Amazon DynamoDB auto scaling: Performance and cost optimization at any scale",
+    "url": "https://aws.amazon.com/blogs/database/amazon-dynamodb-auto-scaling-performance-and-cost-optimization-at-any-scale/"
+  },
+  {
+    "name": "Amazon DynamoDB global tables",
+    "url": "https://aws.amazon.com/dynamodb/global-tables/"
+  },
+  {
+    "name": "Configuring connections in Amazon Redshift",
+    "url": "https://docs.aws.amazon.com/redshift/latest/mgmt/configuring-connections.html"
+  },
+  {
+    "name": "Columnar storage",
+    "url": "https://docs.aws.amazon.com/redshift/latest/dg/c_columnar_storage_disk_mem_mgmnt.html"
+  },
+  {
+    "name": "Working with concurrency scaling",
+    "url": "https://docs.aws.amazon.com/redshift/latest/dg/concurrency-scaling.html"
+  },
+  {
+    "name": "Amazon Redshift clusters",
+    "url": "https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-clusters.html"
+  },
+  {
+    "name": "Amazon ElastiCache for Redis User Guide",
+    "url": "https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/Strategies.html"
+  },
+  {
+    "name": "Amazon ElastiCache for Memcached User Guide",
+    "url": "https://docs.aws.amazon.com/AmazonElastiCache/latest/mem-ug/Strategies.html"
+  },
+  {
+    "name": "Amazon ElastiCache",
+    "url": "https://aws.amazon.com/elasticache/"
+  },
+  {
+    "name": "Comparing Redis and Memcached",
+    "url": "https://aws.amazon.com/elasticache/redis-vs-memcached/"
+  },
+  {
+    "name": "Adding TTL in: Amazon ElastiCache for Redis User Guide",
+    "url": "https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/Strategies.html#Strategies.WithTTL"
+  },
+  {
+    "name": "Adding TTL in: Amazon ElastiCache for Memcached User Guide",
+    "url": "https://docs.aws.amazon.com/AmazonElastiCache/latest/mem-ug/Strategies.html#Strategies.WithTTL"
+  },
+  {
+    "name": "In-Memory Acceleration with DynamoDB Accelerator (DAX)",
+    "url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DAX.html"
+  },
+  {
+    "name": "What is AWS Database Migration Service ?",
+    "url": "https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html"
+  },
+  {
+    "name": "AWS Schema Conversion Tool",
+    "url": "https://aws.amazon.com/dms/schema-conversion-tool/"
   }
 ]

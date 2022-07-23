@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { async } from '@angular/core/testing';
 import { LienService } from './lien.service';
 
 @Component({
